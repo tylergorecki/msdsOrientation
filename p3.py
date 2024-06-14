@@ -2,7 +2,7 @@
 
 maxPrime = 1
 divisor = 2
-num = 38 # 13195 #600851475143
+num = 600851475143
 
 while num > 1:
     while num % divisor == 0:
