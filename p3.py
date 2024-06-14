@@ -13,6 +13,3 @@ while num > 1:
 
 print(maxPrime)
 
-
-# other way to do it
-
